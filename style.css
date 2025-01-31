@@ -14,7 +14,7 @@ body {
 
 .main {
     position: relative;
-    height: 108vh;
+    height: 100vh;
     width: max(100%, 1000px);
     background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8));
 }
