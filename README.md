@@ -29,15 +29,14 @@
       <li><strong>Install dependencies:</strong>
         <pre><code>npm install</code></pre>
       </li>
-      <li><strong>Set up environment variables:</strong>
-        <pre><code>Create a .env file and add your API keys, database URL, etc.</code></pre>
-      </li>
-      <li><strong>Start the development server:</strong>
-        <pre><code>npm start</code></pre>
-      </li>
-      <li><strong>Open your browser:</strong> Go to <code>http://localhost:3000</code> to use the app.</li>
     </ol>
   </section>
+  <section>
+    <h2>Demo</h2>
+    <a href='https://stream-app-nine.vercel.app/'>Click Here</a>
+    
+  </section>
+
 
   
 
