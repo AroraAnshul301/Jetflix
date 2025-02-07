@@ -2,7 +2,7 @@
 
 <body>
   <header>
-    <h1>Netflix Clone</h1>
+    <h1>Jetflix</h1>
     <p>A responsive Netflix clone built using <strong>Html</strong>, <strong>CSS</strong> and <strong>Javascript</strong>. It allows users to browse, search, and stream movies or TV shows.</p>
   </header>
 
