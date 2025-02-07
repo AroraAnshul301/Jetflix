@@ -178,6 +178,7 @@ body {
 .separation {
     z-index: 11;
     box-sizing: border-box;
+    top: -123px;
     position: relative;
     height: 7px;
     width: max(1000px, 100%);
@@ -187,6 +188,8 @@ body {
 .sep1{
     top: -23vh;
 }
+
+
 
 @media screen and (max-width:1200px) {
     .nav {
@@ -320,6 +323,10 @@ body {
         color: white;
         padding: 0px 186px;
     }
+    .sep1{
+        top: -20vh;
+    }
+    
 }
 
 @media screen and (max-width:600px) {
@@ -466,7 +473,6 @@ body {
     align-items: center;
     color: white;
     width: max(90vmax, 1000px);
-    margin: -120px auto;
 }
 
 
