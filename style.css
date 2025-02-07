@@ -23,7 +23,7 @@ body {
     top: 0;
     position: absolute;
     z-index: -1;
-    height: 108vh;
+    height: 100vh;
     width: max(100%, 1000px);
     object-fit: cover;
     transform: scale(1.13, 1.15) translateY(-10%) translateX(-6%);
@@ -31,9 +31,9 @@ body {
 
 .nav {
     position: relative;
+    margin: 5vh auto;
     max-width: 75vw;
-    margin: auto;
-    height: 20vh;
+    height: 10vh;
     top: -100vh;
     display: flex;
     justify-content: space-between;
@@ -179,10 +179,13 @@ body {
     z-index: 11;
     box-sizing: border-box;
     position: relative;
-    top: -128px;
     height: 7px;
     width: max(1000px, 100%);
     background-color: rgb(46, 44, 44);
+}
+
+.sep1{
+    top: -23vh;
 }
 
 @media screen and (max-width:1200px) {
